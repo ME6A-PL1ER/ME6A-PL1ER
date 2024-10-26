@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ME6A-PL1ER
+- 👀 I’m interested in anything to do with networking and building pcs
+- 🌱 I’m currently learning how to code java for ftc robots
