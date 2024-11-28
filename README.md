@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ME6A-PL1ER
-- 👀 I’m interested in anything to do with networking and building pcs
-- 🌱 I’m currently learning how to code java for ftc robots
+Im Owen Rossing
+I mess with Ai a buch for no reason
+I do code for my ftc robotics team 26530 Atomic Aces all by myself with the exception of the occasional ask andy button useage
